@@ -17,6 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TamySouzaa&show_icons=true" />
 </picture>
 
+![tamysouzaa](https://github-readme-stats.vercel.app/api/top-langs/?username=tamysouzaa&hide=html&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tamy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,9 +26,6 @@
   <img align="center" alt="Tamy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tamy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-
-![tamysouzaa](https://github-readme-stats.vercel.app/api/top-langs/?username=tamysouzaa&hide=html&layout=compact&theme=tokyonight)
 
   ##
 🌐 Social Media

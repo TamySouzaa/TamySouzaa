@@ -20,3 +20,9 @@
 </picture>
 
 ![tamysouzaa](https://github-readme-stats.vercel.app/api/top-langs/?username=tamysouzaa&hide=html&layout=compact&theme=tokyonight)
+
+<div> 
+
+  <a href="https://www.linkedin.com/in/tamiris-souza-35066a250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>

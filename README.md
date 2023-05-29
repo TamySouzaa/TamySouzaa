@@ -2,8 +2,7 @@
 
 
 
-- 🌱 I’m currently learning  HTml, CSS e JavaScript.
-- 📫 contate-me  por e-mail: tamiris.fsouzaa@outlook.com
+- 🌱 I’m currently learning  Html, CSS e JavaScript.
 - 😄 Pronouns: ela/dela.
 - ⚡ Fun fact:  Sou apaixonada por Técnologia, filmes e séries.
 
@@ -36,5 +35,7 @@
 <div> 
 
   <a href="https://www.linkedin.com/in/tamiris-souza-35066a250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="mailto:tamiris.fsouzaa@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+
+
 </div>

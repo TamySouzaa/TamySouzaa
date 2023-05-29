@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning  Html, CSS e JavaScript.
 - 😄 Pronouns: ela/dela.
-- ⚡ Fun fact:  Sou apaixonada por Técnologia, filmes e séries.
 
 <picture>
 <source

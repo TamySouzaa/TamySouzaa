@@ -17,8 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TamySouzaa&show_icons=true" />
 </picture>
 
-![tamysouzaa](https://github-readme-stats.vercel.app/api/top-langs/?username=tamysouzaa&hide=html&layout=compact&theme=tokyonight)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Tamy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tamy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

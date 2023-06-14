@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning  Html, CSS e JavaScript.
+- 🌱 I’m currently learning HTML, CSS e JavaScript.
 - 😄 Pronouns: ela/dela.
 
 <picture>

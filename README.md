@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning HTML, CSS e JavaScript.
-- 😄 Pronouns: ela/dela.
+- 😄 Pronouns: she/her .
 
 <picture>
 <source

@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript e React.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
 - 😄 Pronouns: she/her .
 
 <picture>

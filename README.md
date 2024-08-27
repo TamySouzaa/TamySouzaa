@@ -1,8 +1,8 @@
-### Hello! I am Tamiris Souza 🖖, a software tester, working in the area of ​​quality assurance🐞. Currently, I am expanding my knowledge in test automation 🤖.
+### Hello! I am Tamiris Souza 🖖, a software tester, working in the area of ​​quality assurance🐞.
 
 
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 🤖 Currently, I am expanding my knowledge in test automation.
 - 😄 Pronouns: she/her .
 
 <picture>

@@ -1,4 +1,4 @@
-### Olá! Eu sou a Tamiris Souza!🖖
+### Hello! I am Tamiris Souza 🖖, a software tester, working in the area of ​​quality assurance🐞. Currently, I am expanding my knowledge in test automation 🤖.
 
 
 
